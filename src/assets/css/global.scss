@@ -1,0 +1,45 @@
+.card {
+ width: 100%;
+ padding: 16px 0px;
+ border-radius: 4px;
+ overflow: hidden;
+ margin: 8px 0px;
+ background-color: $white;
+ box-shadow: $shadow-1;
+}
+.sub-message {
+  color: $text-hint;
+  font-size: 0.75rem;
+  text-overflow:ellipsis;
+  white-space:nowrap;
+  word-wrap:normal;
+  overflow:hidden;
+  max-width: calc(100vw - 100px);
+}
+.main-message {
+  font-weight: 700;
+  font-size: 0.85rem;
+}
+.option-label {
+  font-size: 0.85rem;
+  color: $light-grey1;
+}
+.card-title {
+  padding: 6px 16px;
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: $text-hint;
+}
+.caption-block {
+  padding: 0px 16px 6px;
+  font-size: 0.75rem;
+  color: $text-caption;
+}
+.main-message {
+  font-size: 1.2rem;
+  text-overflow:ellipsis;
+  white-space:nowrap;
+  word-wrap:normal;
+  overflow:hidden;
+  max-width: calc(100vw - 100px);
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_search</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="product-empty-copy-2" transform="translate(-59.000000, -92.000000)" fill-rule="nonzero">
+            <g id="Group-17" transform="translate(16.000000, 84.000000)">
+                <g id="Group-16" transform="translate(39.000000, 4.000000)">
+                    <g id="Group-14">
+                        <g id="ic_search">
+                            <rect id="canvas" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                            <path d="M16.7360334,14.887787 L20,18.1517536 L18.1517536,20 L14.887787,16.7360334 C13.771328,17.496085 12.4226325,17.9403476 10.9701738,17.9403476 C7.12065311,17.9403476 4,14.8196945 4,10.9701738 C4,7.12065311 7.12065311,4 10.9701738,4 C14.8196945,4 17.9403476,7.12065311 17.9403476,10.9701738 C17.9403476,12.4226325 17.496085,13.771328 16.7360334,14.887787 Z M10.9701738,15.6169563 C13.536521,15.6169563 15.6169563,13.536521 15.6169563,10.9701738 C15.6169563,8.40382667 13.536521,6.32339127 10.9701738,6.32339127 C8.40382667,6.32339127 6.32339127,8.40382667 6.32339127,10.9701738 C6.32339127,13.536521 8.40382667,15.6169563 10.9701738,15.6169563 Z" id="Shape" fill="#8392A1"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

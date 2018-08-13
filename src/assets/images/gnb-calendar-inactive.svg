@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="18px" viewBox="0 0 19 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>gnb-calender-inactive</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="gnb-calender-inactive" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.16">
+        <g id="calendar-icon" transform="translate(0.500000, 0.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M16,1.8 L15,1.8 L15,1 C15,0.44771525 14.5522847,1.32369093e-15 14,4.4408921e-16 L13.0490723,3.10017388e-16 C12.4967875,-6.57557125e-16 12.0490723,0.44771525 12.0490723,1 L12.0490723,1.8 L5.99365234,1.8 L5.99365234,1 C5.99365234,0.44771525 5.54593709,-1.01453063e-16 4.99365234,0 L4,2.22044605e-16 C3.44771525,5.45542273e-16 3,0.44771525 3,1 L3,1.8 L2,1.8 C0.89,1.8 0.01,2.61 0.01,3.6 L0,16.2 C0,17.19 0.89,18 2,18 L16,18 C17.1,18 18,17.19 18,16.2 L18,3.6 C18,2.61 17.1,1.8 16,1.8 Z M16,16 L2,16 L2,6 L16,6 L16,16 Z M5,8 L8,8 C8.55228475,8 9,8.44771525 9,9 L9,12 C9,12.5522847 8.55228475,13 8,13 L5,13 C4.44771525,13 4,12.5522847 4,12 L4,9 C4,8.44771525 4.44771525,8 5,8 Z" id="Shape-Copy-5"></path>
+        </g>
+    </g>
+</svg>

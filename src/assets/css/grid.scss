@@ -1,0 +1,50 @@
+.flex-container {
+  display: flex;
+}
+.flex-align-center {
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+.flex-align-left-center {
+  justify-content: flex-start;
+  align-content: center;
+  align-items: center;
+}
+.flex-v-align-center{
+  justify-content: center;
+}
+.flex-align-center-between {
+  justify-content: space-between;
+  align-content: center;
+  align-items: center;
+}
+.flex-sort-column {
+  flex-direction: column;
+}
+.flex-sort-row {
+  flex-direction: row;
+}
+.container-main-page {
+  min-height: 100vh;
+  padding: 56px 16px 80px;
+}
+.container-sub-page {
+  min-height: 100vh;
+  padding: 90px 16px 80px;
+}
+.right {
+  text-align: right;
+}
+.left {
+  text-align: left;
+}
+.center {
+  text-align: center;
+}
+.blank-16 {
+  height: 16px;
+}
+.blank-8 {
+  height: 8px;
+}

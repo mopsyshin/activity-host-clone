@@ -1,0 +1,29 @@
+$shadow-3: 2px 4px 22px rgba(0, 0, 0, 0.05);
+$shadow-2: 0px 2px 8px rgba(0, 0, 0, 0.08);
+$shadow-1: 0px 2px 8px rgba(0, 0, 0, 0.04);
+$light-border: 1px solid rgba(0,0,0,0.04);
+$white: #ffffff;
+$light-grey1: #999999;
+$light-grey2: #aaaaaa;
+$light-grey3: #dddddd;
+$light-grey4: #f8f8f8;
+$dark-grey1: #666666;
+$dark-grey2: #333333;
+$point-red: #FF5D6E;
+$alert-red: #f7323f;
+$cancel-red: #ff7a7a;
+$t500: #00A2AD;
+$active-blue: #4693ff;
+$text-main: #354052;
+$text-sub: #475669;
+$text-hint: #8392a1;
+$text-caption: #92a9c3;
+$text-disabled: #96a9c1;
+$button-bg-main: #475669;
+$color-ticket: #b175ff;
+$color-class: #00a2ad;
+
+@mixin background-hover {
+  background-color: #f4f4f4;
+  transition: 0.2s all;
+}
